@@ -1,0 +1,9 @@
+export const UserDetails = 'UserDetails';
+export const UserNameData = 'UserNameData';
+export const Logout = 'Logout';
+export const POST = 'POST';
+export const PATCH = 'PATCH';
+export const PUT = 'PUT';
+export const GET = 'GET';
+export const DELETE = 'DELETE';
+export const isDev = false;
